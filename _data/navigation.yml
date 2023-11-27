@@ -1,0 +1,142 @@
+homepage:
+  - title: Books and Publishing
+    icon: octicon-rocket
+    links:
+      - name: Black & White Books
+        url: /book-printing
+      - name: Textbooks
+        url: /textbooks
+      - name: Children's Books
+        url: /childrens-books
+      - name: Photo Books
+        url: /photo-books
+      - name: Cookbooks
+        url: /cookbooks
+      - name: Magazines
+        url: /magazines
+  - title: Educational Materials
+    icon: octicon-rocket
+    links:
+      - name: Notebooks
+        url: /notebooks
+      - name: Workbooks
+        url: /workbooks
+      - name: Diaries
+        url: /diaries
+      - name: Question Papers
+        url: /question-papers
+      - name: Answer Sheets
+        url: /answer-sheets
+      - name: Training Manuals
+        url: /training-manuals
+      - name: Certificates
+        url: /certificates
+  - title: Stationery
+    icon: octicon-rocket
+    links:
+      - name: Business Cards
+        url: /business-cards
+      - name: Letterheads
+        url: /letterheads
+      - name: Envelopes
+        url: /envelopes
+      - name: Notepads
+        url: /notepads
+  - title: Office Essentials
+    icon: octicon-rocket
+    links:
+      - name: Bill Books
+        url: /bill-books
+      - name: ID Cards
+        url: /id-cards
+      - name: Appointment Cards
+        url: /appointment-cards
+      - name: Custom Folders
+        url: /custom-folders
+      - name: Presentation Folders0
+        url: /presentation-folders
+  - title: Marketing Materials
+    icon: octicon-rocket
+    links:
+      - name: Flyers
+        url: /flyers
+      - name: Leaflets
+        url: /leaflets 
+      - name: Pamphlets
+        url: /pamphlets
+      - name: Brochures
+        url: /brochures
+      - name: Postcards
+        url: /postcards
+  - title: Event and Display Items
+    icon: octicon-rocket
+    links:
+      - name: Standees
+        url: /standees
+      - name: Danglers
+        url: /danglers
+      - name: Tent Cards
+        url: /tent-cards
+      - name: Posters
+        url: /posters
+      - name: Tickets
+        url: /tickets
+      - title: Program Booklets
+        url: /program-booklets
+  - title: Calendars and Planners
+    icon: octicon-rocket
+    links:
+      - name: Table Calendars
+        url: /table-calendars
+      - name: Wall Calendars
+        url: /wall-calendars
+      - name: Personal Planners
+        url: /personal-planners
+  - title: Healthcare Documents
+    icon: octicon-rocket
+    links:
+      - name: Prescription Pads
+        url: /prescription-pads
+      - name: Lab Reports
+        url: /lab-reports
+      - name: Patient Forms
+        url: /patient-forms
+      - name: Health Records
+        url: /health-records
+      - name: Admission Forms
+        url: /admission-forms
+sideNav:
+  bookPrinting:
+    - name: Overview
+      url: /book-printing/overview
+    - name: Inner Printing
+      subMenu:
+        - name: Black & White Book
+          url: /book-printing/black-and-white
+        - name: Multi Colour Book
+          url: /book-printing/colour
+        - name: Notebook
+          url: /book-printing/notebook
+    - name: Binding
+      url: /types-of-book-printing
+      subMenu:
+        - name: Paperback
+          url: /book-printing/paperback
+        - name: Hardcover
+          url: /book-printing/hardcover
+        - name: Saddle Stitching
+          url: /book-printing/saddle-stitching
+    - name: Finishing
+      url: /types-of-book-printing
+      subMenu:
+        - name: Lamination
+          url: /book-printing/lamination
+        - name: Spot UV
+          url: /book-printing/spot-uv
+        - name: Foiling
+          url: /book-printing/foiling
+        - name: Embossing
+          url: /book-printing/embossing
+    - name: Instant Estimate
+      url: /book-printing/estimate
+

@@ -1,0 +1,11 @@
+---
+layout: base
+---
+
+{% include sidebar.liquid %}
+<div class="flex-column flex-1 min-width-0">
+    <main id="main-content" style="scroll-margin-top:5rem">
+        {{ content }}
+    </main>
+    {% include footer.html %}
+</div>

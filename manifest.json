@@ -1,0 +1,6 @@
+{
+    "name": "VST Press",
+    "short_name": "VST Press",
+    "start_url": "/",
+    "display": "standalone"
+}
